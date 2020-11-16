@@ -1,0 +1,8 @@
+D:\$JobHunting\Repos\VertMarkets\VertMarkets.MagazineStore\VertMarkets.MagazineStore.API.Models\bin\Debug\netstandard2.0\VertMarkets.MagazineStore.API.Models.deps.json
+D:\$JobHunting\Repos\VertMarkets\VertMarkets.MagazineStore\VertMarkets.MagazineStore.API.Models\bin\Debug\netstandard2.0\VertMarkets.MagazineStore.API.Models.dll
+D:\$JobHunting\Repos\VertMarkets\VertMarkets.MagazineStore\VertMarkets.MagazineStore.API.Models\obj\Debug\netstandard2.0\VertMarkets.MagazineStore.API.Models.AssemblyInfoInputs.cache
+D:\$JobHunting\Repos\VertMarkets\VertMarkets.MagazineStore\VertMarkets.MagazineStore.API.Models\obj\Debug\netstandard2.0\VertMarkets.MagazineStore.API.Models.AssemblyInfo.cs
+D:\$JobHunting\Repos\VertMarkets\VertMarkets.MagazineStore\VertMarkets.MagazineStore.API.Models\obj\Debug\netstandard2.0\VertMarkets.MagazineStore.API.Models.csproj.CoreCompileInputs.cache
+D:\$JobHunting\Repos\VertMarkets\VertMarkets.MagazineStore\VertMarkets.MagazineStore.API.Models\bin\Debug\netstandard2.0\VertMarkets.MagazineStore.API.Models.pdb
+D:\$JobHunting\Repos\VertMarkets\VertMarkets.MagazineStore\VertMarkets.MagazineStore.API.Models\obj\Debug\netstandard2.0\VertMarkets.MagazineStore.API.Models.dll
+D:\$JobHunting\Repos\VertMarkets\VertMarkets.MagazineStore\VertMarkets.MagazineStore.API.Models\obj\Debug\netstandard2.0\VertMarkets.MagazineStore.API.Models.pdb

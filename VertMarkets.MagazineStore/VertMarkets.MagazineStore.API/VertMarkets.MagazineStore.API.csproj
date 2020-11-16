@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Swagger.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Swagger.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="JsonSubTypes" Version="1.2.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+    <PackageReference Include="Microsoft.CSharp" Version="4.5.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="RestSharp" Version="105.1.0" />
+    <PackageReference Include="System.ComponentModel.Annotations" Version="4.5.0" />
+    <PackageReference Include="System.Runtime.Serialization.Primitives" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VertMarkets.MagazineStore.API.Models\VertMarkets.MagazineStore.API.Models.csproj" />
+  </ItemGroup>
+
+</Project>

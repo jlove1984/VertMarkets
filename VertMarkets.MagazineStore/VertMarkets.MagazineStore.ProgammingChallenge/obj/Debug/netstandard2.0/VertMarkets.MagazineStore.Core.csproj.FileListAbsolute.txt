@@ -1,0 +1,14 @@
+D:\$JobHunting\Repos\VertMarkets\VertMarkets.MagazineStore\VertMarkets.MagazineStore.ProgammingChallenge\bin\Debug\netstandard2.0\VertMarkets.MagazineStore.Core.deps.json
+D:\$JobHunting\Repos\VertMarkets\VertMarkets.MagazineStore\VertMarkets.MagazineStore.ProgammingChallenge\bin\Debug\netstandard2.0\VertMarkets.MagazineStore.Core.dll
+D:\$JobHunting\Repos\VertMarkets\VertMarkets.MagazineStore\VertMarkets.MagazineStore.ProgammingChallenge\bin\Debug\netstandard2.0\VertMarkets.MagazineStore.Core.pdb
+D:\$JobHunting\Repos\VertMarkets\VertMarkets.MagazineStore\VertMarkets.MagazineStore.ProgammingChallenge\bin\Debug\netstandard2.0\VertMarkets.MagazineStore.API.dll
+D:\$JobHunting\Repos\VertMarkets\VertMarkets.MagazineStore\VertMarkets.MagazineStore.ProgammingChallenge\bin\Debug\netstandard2.0\VertMarkets.MagazineStore.API.Models.dll
+D:\$JobHunting\Repos\VertMarkets\VertMarkets.MagazineStore\VertMarkets.MagazineStore.ProgammingChallenge\bin\Debug\netstandard2.0\VertMarkets.MagazineStore.API.pdb
+D:\$JobHunting\Repos\VertMarkets\VertMarkets.MagazineStore\VertMarkets.MagazineStore.ProgammingChallenge\bin\Debug\netstandard2.0\VertMarkets.MagazineStore.API.Models.pdb
+D:\$JobHunting\Repos\VertMarkets\VertMarkets.MagazineStore\VertMarkets.MagazineStore.ProgammingChallenge\obj\Debug\netstandard2.0\VertMarkets.MagazineStore.Core.csprojAssemblyReference.cache
+D:\$JobHunting\Repos\VertMarkets\VertMarkets.MagazineStore\VertMarkets.MagazineStore.ProgammingChallenge\obj\Debug\netstandard2.0\VertMarkets.MagazineStore.Core.AssemblyInfoInputs.cache
+D:\$JobHunting\Repos\VertMarkets\VertMarkets.MagazineStore\VertMarkets.MagazineStore.ProgammingChallenge\obj\Debug\netstandard2.0\VertMarkets.MagazineStore.Core.AssemblyInfo.cs
+D:\$JobHunting\Repos\VertMarkets\VertMarkets.MagazineStore\VertMarkets.MagazineStore.ProgammingChallenge\obj\Debug\netstandard2.0\VertMarkets.MagazineStore.Core.csproj.CoreCompileInputs.cache
+D:\$JobHunting\Repos\VertMarkets\VertMarkets.MagazineStore\VertMarkets.MagazineStore.ProgammingChallenge\obj\Debug\netstandard2.0\VertMarkets.MagazineStore.Core.csproj.CopyComplete
+D:\$JobHunting\Repos\VertMarkets\VertMarkets.MagazineStore\VertMarkets.MagazineStore.ProgammingChallenge\obj\Debug\netstandard2.0\VertMarkets.MagazineStore.Core.dll
+D:\$JobHunting\Repos\VertMarkets\VertMarkets.MagazineStore\VertMarkets.MagazineStore.ProgammingChallenge\obj\Debug\netstandard2.0\VertMarkets.MagazineStore.Core.pdb
